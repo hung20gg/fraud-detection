@@ -8,10 +8,10 @@ Note: Using XGBoost is enough in this project, but I want to take a step further
 
 ### Avaliable models
 
-* Logisitc
-* Logistic + PCA
-* XGBoost
-* LightGBM
-* FFN with Residual Connection
-* Self-supervised VAEs (comming soon)
+* Logisitc [notebook](/basic_ml.ipynb)
+* Logistic + PCA [notebook](/basic_ml.ipynb)
+* XGBoost [notebook](/basic_ml.ipynb)
+* LightGBM [notebook](/basic_ml.ipynb)
+* FFN with Residual Connection [notebook](/residual.ipynb)
+* Self-supervised VAEs [notebook](/vae.ipynb)
 * Attention mechanism (comming soon)
