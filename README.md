@@ -18,4 +18,4 @@ Note: Using XGBoost is enough in this project, but I want to take a step further
 * LightGBM [notebook](/Basic_ML.ipynb)
 * FFN with Residual Connection [notebook](/Residual.ipynb)
 * Self-supervised VAEs [notebook](/VAE.ipynb)
-* Attention mechanism (comming soon)
+* Attention mechanism [notebook](/Attention.ipynb)
