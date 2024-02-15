@@ -19,3 +19,4 @@ Note: Using XGBoost is enough in this project, but I want to take a step further
 * FFN with Residual Connection [notebook](/Residual.ipynb)
 * Self-supervised VAEs [notebook](/VAE.ipynb)
 * Attention mechanism [notebook](/Attention.ipynb)
+* Diffusion (similar to VAEs) (comming soon)
